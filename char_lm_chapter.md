@@ -1,8 +1,8 @@
 1. 텍스트 → 토큰화 - 완료
 2. Dataset / DataLoader - 완료
 3. Token Embedding + Positional Embedding - 완료
-4. Causal Self-Attention - 진행 중
-5. Multi-Head Attention
+4. Causal Self-Attention - 완료
+5. Multi-Head Attention - 진행 중
 6. Feed Forward Network
 7. Transformer Decoder Block
 8. 여러 Decoder Block 쌓기
